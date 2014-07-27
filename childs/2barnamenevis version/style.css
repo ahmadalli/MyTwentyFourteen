@@ -165,15 +165,9 @@ margin-bottom: 48px;
 
 /* Solve the problems that happens after removeing tumbnails from main page */
 
-.full-width.singular .site-content .hentry.has-post-thumbnail, .full-width.home .site-content .hentry.has-post-thumbnail {
+.site-main .full-width.singular .site-content .hentry.has-post-thumbnail, .full-width.home .site-content .hentry.has-post-thumbnail {
     margin-top: 0px;
 }
-
-.content-area {
-    padding-top: 0px;
-}
-
-/* End of main page tumbnails removing problems! */
 
 /* Article Title Font Size */
 .entry-title {
