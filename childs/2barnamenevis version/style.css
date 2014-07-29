@@ -164,7 +164,6 @@ margin-bottom: 48px;
 /* blog */
 
 /* Solve the problems that happens after removeing tumbnails from main page */
-
 .site-main .full-width.singular .site-content .hentry.has-post-thumbnail, .full-width.home .site-content .hentry.has-post-thumbnail {
     margin-top: 0px;
 }
@@ -173,10 +172,12 @@ margin-bottom: 48px;
 .entry-title {
     font-size: 25px;
 }
+
 /* Comment Titles font */
 .comments-title {
     font-family: tahoma;
 }
+
 /* Remove underline from a tags */
 .entry-content a, .entry-summary a, .page-content a, .comment-content a{
     text-decoration: blink;
