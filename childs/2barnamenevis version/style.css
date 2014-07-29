@@ -177,3 +177,7 @@ margin-bottom: 48px;
 .comments-title {
     font-family: tahoma;
 }
+/* Remove underline from a tags */
+.entry-content a, .entry-summary a, .page-content a, .comment-content a{
+    text-decoration: blink;
+}
