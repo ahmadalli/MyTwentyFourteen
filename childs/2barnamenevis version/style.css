@@ -163,6 +163,11 @@ margin-bottom: 48px;
 
 /* blog */
 
+/*strong tag doesn't work!*/
+strong{
+    font-weight: bold;
+}
+
 /* Solve the problems that happens after removeing tumbnails from main page */
 .site-main .full-width.singular .site-content .hentry.has-post-thumbnail, .full-width.home .site-content .hentry.has-post-thumbnail {
     margin-top: 0px;
